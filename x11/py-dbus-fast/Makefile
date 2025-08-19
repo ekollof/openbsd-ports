@@ -1,4 +1,4 @@
-COMMENT=	A faster version of dbus-next
+COMMENT=	A faster (non-pure-python) version of dbus-next
 
 MODPY_DISTV=	2.44.3
 DISTNAME=	dbus_fast-${MODPY_DISTV}
